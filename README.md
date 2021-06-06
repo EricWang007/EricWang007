@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 ### I major in Computer Science
 ---
 
-<!-- 📊 **This week I spent my time on**
+📊 **This week I spent my time on**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ztqakita)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<!-- ---
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericwang007)](https://github.com/anuraghazra/github-readme-stats)
+
+ ---
 
 💻 **Top languages used in projects**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztqakita&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwang007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 🔭 **My github states**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztqakita&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwang007&show_icons=true&theme=radical)
 
 ---
-
+<!--
 ### Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
