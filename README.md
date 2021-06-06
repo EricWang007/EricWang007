@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericwang007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ---
 <!-- 
 💻 **Top languages used in projects**
 
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwang007&show_icons=true&theme=dracula)
 
----
 <!--
 ### Languages and Tools 🛠 
 
